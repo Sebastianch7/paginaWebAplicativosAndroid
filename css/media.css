@@ -1,0 +1,72 @@
+@media screen and (max-width: 700px)
+{
+	#inp_password
+	{
+		width: 100%;
+		padding: 5px;
+		color: gray;
+		font-size: 18px;
+		border: none;
+		border-bottom: 1px solid black;
+		text-align: center;
+		outline: none;
+		font-family: futura;
+	}
+	#btn_password
+	{
+		margin: 10px auto;
+		width: 50%;
+		padding: 10px;
+		font-size: 14px;
+		color: gray;
+		border: none;
+		text-align: center;
+		outline: none;
+		font-family: futuraBk;
+	}
+}
+@media screen and (max-width: 500px)
+{
+	#div_imagen_texto
+	{
+		text-align: right;
+		font-family: futura;
+		padding: 3%;
+		font-size: 70px;
+		margin-right:50px; 
+		color: white;
+	}
+	#btn_password
+	{
+		color: #DDDDDD;
+	}
+}
+
+@media screen and (max-width: 400px)
+{
+	#div_imagen_texto
+	{
+		text-align: right;
+		font-family: futura;
+		padding: 3%;
+		font-size: 50px;
+		margin-right:50px; 
+		color: white;
+	}
+	#inp_password
+	{
+		width: 100%;
+		padding: 5px;
+		color: gray;
+		font-size: 18px;
+		border: none;
+		border-bottom: 1px solid black;
+		text-align: center;
+		outline: none;
+		font-family: futura;
+	}
+	#btn_password
+	{
+		color: #DDDDDD;
+	}
+}
